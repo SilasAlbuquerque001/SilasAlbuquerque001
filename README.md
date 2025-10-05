@@ -143,7 +143,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img 
     align="left" 
     alt="Mysql" 
-    title="MysqlL"
+    title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
