@@ -17,9 +17,9 @@ Me chamo Silas Albuquerque, tenho 20 anos e sou natural de Pernambuco. Concluí 
 <br/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/647701c2-b127-4780-89a0-0e3f81e8fe54" height="250px">
+  <img src="https://github.com/user-attachments/assets/647701c2-b127-4780-89a0-0e3f81e8fe54" height="200px" alt="Autism Awareness">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE0aXc1a2dhb2lseGQ1ZTEyaGduM3J6emt6Mm9ybGdvd2Rld3E0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9V9bunlHq9bSUcXkuc/giphy.gif" height="200px" alt="Awareness GIF">
 </p>
-
 
 
 ---
