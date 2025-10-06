@@ -6,7 +6,7 @@
 
 **`Analista de Sistemas`**
 
-Me chamo Silas Albuquerque, tenho 20 anos e sou natural de Pernambuco. Concluí meu ensino médio na Escola Técnica Estadual Professor Agamemnon Magalhães, no curso técnico em Mecânica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau, pelo programa Embarque Digital do Porto Digital e da Prefeitura do Recife. Sou uma pessoa neurodivergente, portadora do Transtorno do Espectro Autista, mas com uma alta habilidade em resolução de problemas, pensamento lógico e raciocínio abstrato.
+Me chamo Silas Albuquerque, tenho 20 anos e sou natural de Pernambuco. Concluí meu ensino médio na Escola Técnica Estadual Professor Agamemnon Magalhães, junto com o curso técnico em Mecânica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau, pelo programa Embarque Digital do Porto Digital e da Prefeitura do Recife. Sou uma pessoa neurodivergente, portadora do Transtorno do Espectro Autista, mas com uma alta habilidade em resolução de problemas, pensamento lógico e raciocínio abstrato.
 
 
    <!--LINKS-->
