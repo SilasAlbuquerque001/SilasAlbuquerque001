@@ -1,4 +1,6 @@
-## 🧑🏻‍💻 Silas Albuquerque 🧩
+## 🧑🏻‍💻 Silas Albuquerque 
+
+
 
 **`Analista de Sistemas`**
 
@@ -11,6 +13,14 @@ Me chamo Silas Albuquerque, tenho 20 anos e sou natural de Pernambuco. Concluí 
   <a href = "silasrafael015@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/silas-albuquerque-292b5023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/647701c2-b127-4780-89a0-0e3f81e8fe54" height="250px">
+</p>
+
+
 
 ---
 
