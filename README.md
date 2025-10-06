@@ -1,4 +1,6 @@
-## 🧑🏻‍💻 Silas Albuquerque 🧩
+## 🧑🏻‍💻 Silas Albuquerque<img src="https://github.com/user-attachments/assets/a21b8e87-9e4f-4eeb-816b-91b226ff1174" alt="SonicTheHedgehogGIF" width="58">
+
+�
 
 
 
