@@ -10,7 +10,7 @@ Me chamo Silas Albuquerque, tenho 20 anos e sou natural de Pernambuco. Concluí 
    <!--LINKS-->
 <div align="center">
   <a href="https://www.instagram.com/silas.albuquerque13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="mailto:silasrafael015@gmail.com">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=silasrafael015@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/silas-albuquerque-292b5023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
