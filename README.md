@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 Silas Albuquerque<img src="https://github.com/user-attachments/assets/a21b8e87-9e4f-4eeb-816b-91b226ff1174" alt="SonicTheHedgehogGIF" width="58">
+## 🧑🏻‍💻 Silas Albuquerque🧩
 
 
 
@@ -16,14 +16,6 @@ Me chamo Silas Albuquerque, tenho 20 anos e sou natural de Pernambuco. Concluí 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/silas-albuquerque-292b5023a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6891f812-67ca-4d6c-933e-4334707b27e5" height="200px" alt="Autism Autistic GIF">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE0aXc1a2dhb2lseGQ1ZTEyaGduM3J6emt6Mm9ybGdvd2Rld3E0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9V9bunlHq9bSUcXkuc/giphy.gif" height="200px" alt="Awareness GIF">
-</p>
-
 
 ---
 
